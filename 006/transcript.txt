@@ -1,0 +1,161 @@
+Speaker: Afonso Ferrer
+[01:16] Sa. Hello. Hey, there.
+
+Speaker: Axel Cordova
+[02:03] How's it going? Hi.
+
+Speaker: Christopher Calderon
+[02:05] Good morning.
+
+Speaker: Carlos E. Pérez
+[02:07] What's up, guys?
+
+Speaker: Afonso Ferrer
+[02:11] What. What does your mug says, Carlos? There are two Time.
+
+Speaker: Afonso Ferrer
+[02:19] Time to dissociate. Oh, yeah.
+
+Speaker: Carlos E. Pérez
+[02:23] Time to dissociate.
+
+Speaker: Afonso Ferrer
+[02:26] I have a collection of mugs with. So they. They were handmade. I didn't make them. But they are handmade with a lot of funny phrases. But they are not. They're not appropriate to show them on a work call.
+
+Speaker: Afonso Ferrer
+[02:44] Oh, no, it's nothing bad, but, like, it's. It's those funny zingers, dude.
+
+Speaker: Christopher Calderon
+[02:53] Those are the best.
+
+Speaker: Carlos E. Pérez
+[02:56] Yeah, those are the best, for sure. Yeah, this. This one has, like. I used to have another. Funny one, which was like, the one with the Google dinosaur that said, like, 404 coffee not found. But now this one became my favorite one, so it's the one I've been using the most, for sure.
+
+Speaker: Afonso Ferrer
+[03:16] Yeah. It's amazing.
+
+Speaker: Dany Beltran
+[03:18] Carlos did the coffee with the 404 Coffee had that message at the bottom of the cup.
+
+Speaker: Carlos E. Pérez
+[03:24] It has it on the side, like, it has the little dinosaur here. And then if you go to the other side, like, I. I have to drink the coffee with my left hand with that one for it to be funnier, because this I only has the dinosaur, but in the other side, it has the dinosaur and says, 404 coffee not found. But yeah, on the bottom, it doesn't have it, unfortunately.
+
+Speaker: Dany Beltran
+[03:44] That message at the bottom, like, when you finish your coffee, it's inside the cup at the bottom.
+
+Speaker: Carlos E. Pérez
+[03:49] Yeah, that's fun.
+
+Speaker: Dany Beltran
+[03:52] Or whatever you're drinking. And then says 400 for 404.
+
+Speaker: Donovan Hiland
+[03:57] That would be funny. Yeah.
+
+Speaker: Carlos E. Pérez
+[03:58] Super funny. Yeah. I don't know if you've seen this one already, Donovan.
+
+Speaker: Pedro Guimaraes
+[04:09] That's awesome.
+
+Speaker: Carlos E. Pérez
+[04:10] Yeah, it's new. I got it when I went to the US And I just liked it so much that I was like, dude, I need this in my house.
+
+Speaker: Donovan Hiland
+[04:19] That's awesome.
+
+Speaker: Carlos E. Pérez
+[04:21] Yeah. Hello.
+
+Speaker: Pedro Guimaraes
+[04:23] Hello. Hello. So, one thing before we start. We're gonna start having presentations again next week, and the next week after that, I'm gonna have, like, Marvin and Edson. They each are gonna do a presentation, and also, there's another draft brewing in my mind for another presentation that I also want to do. But today we're gonna. I'm gonna do a Q A like, the other two weeks. So let's get started. Second, I think Zoom has, like, the. The most confusing share thing. It's all. Okay. Before we start, I want to say something. There's no need to be afraid to put your name on the questions. Like, there are no stupid questions. And if you ask something to someone and they say your question is stupid, that person is wrong, not you. So I like to know, like, I'm gonna ask who asked the question before answering. So the first question is, is Raven open to offering different AI agents other than cloud. Who asked this question?
+
+Speaker: Afonso Ferrer
+[06:08] I mean if it is anonymous, should we ask who asked question?
+
+Speaker: Pedro Guimaraes
+[06:13] Yes.
+
+Speaker: Afonso Ferrer
+[06:14] Oh yeah, that was an accident.
+
+Speaker: Carlos E. Pérez
+[06:19] This was like the very first time I asked in this platform and I just asked the question and hit enter. I didn't even know there was a field to enter your names. But yeah, it was me. Yeah, that was me. Sorry. It was when I submitted the question I saw like, oh, it's anonymous and I didn't know how to change it back so.
+
+Speaker: Pedro Guimaraes
+[06:38] No, it's fine. I just like, I thought people were afraid to ask questions.
+
+Speaker: Carlos E. Pérez
+[06:45] No, yeah, I saw like some annoying menus like changing the tone of the question. I was like, dude, I don't need this. So I just hit enter without me knowing like that. Yeah.
+
+Speaker: Pedro Guimaraes
+[06:58] Now going to actually answer the question. Not at the moment, but it's always good to be on the lookout for whatever is happening on the other side. I still think, I don't know, I still think things Google could go wrong. Like for example, I, if you ask me like 6 months ago I was like a big fan of Anthropic and now I, I kind of don't trust them. They, they. Haven't doing like some weird stuff with the usage with the subscriptions. I still think some it could get more expensive in the future. So it's always good to be on the lookout for what's happening. And I do see a future where local models will get really good. They already did really good but like more affordable to run. And, and also I feel like US companies offering Chinese models will also like become a big thing. They already are actually like fireworks does that. Cerebrals does that and some others that now I can't remember. Let's move on to the other question. Oh, okay. I will yesterday order like it shifted the order right when I was going to read. How do I stop cloud for constantly asking permissions for new variations of already whitelisted commands? If you already whitelisted any command, you can. Put wild a wildcard. So it'll be like NPM open parenthesis wildcard. But if you think, hey, but I don't want to like, I don't want to approve all NPM commands. You can. And then we can go into the deny list and deny some of them. So the wildcard will apply to all NPM commands except those. I don't know, maybe you don't want to like upgrade or remove or push to the, to the NPM registry. You can deny, you can deny those and read only commands such as grab. I would just like put a wildcard like grab wildcard so it will never ask you for that again. And there's also like a built in. A built in command, the shiny check one is like fill your permission prompt is a built in command called code. What it does is like it's gonna read your sessions that you have. It's gonna, hey, I had to ask for this command line seven times. So it's gonna offer you, hey, do you, do you want to whitelist this? So I suggest running that command to now. Frank Paris, what are your recommendations to preserve contests from previous sessions? It seems to get corrupted. Truncated and result modes. There are. I was reading the question earlier. I think there are three things you can do. You can either like compact the session more proactively. So with like slash, compact and whenever. And if you're doing that manually, you can use the compact and right afterwards you add whatever you want to do, like slash compact. We're about to do this thing because then it's going to compact the session, but it's going to use whatever you prompted to prioritize what's going to be less compressed or what's going to be prioritized for the compactation. So there's an export command. You can export the contents of a session either through a clipboard or your file. And you can also ask for. As a very makeshift thing but you can ask, hey, create like a to do list file and each time we finish something on the session, mark it as finished and move on to the next test. Because even if you start like a new session from scratch, cloud would at least have a reference of what has already been done and what's left to do. Okay, I got lost with the approach of open code. I. I did use it a bit I like but I feel strange using it. I don't know like I. I will put like in third place. I like using actually second place because I would put like tired in the first place called encodex. I love using the Codex Cli and codexa so by the use of encode like I have like a subscription to Fireworks and I use open code for Kimi and open code is quite good and it's always great. That's open source and you can just go there and like it's more flexible than cloud code if you. But if you want to do something. Oh okay. Kevin Rail is.
+
+Speaker: Kevin Del Castillo
+[13:50] Yeah, and I'm the one that asked that question. I also want to. I also wanted to add my own thoughts here. I think the UX is quite different to cloud and I also have another question related to the vendor login. We probably are in now with cloud and cloud code. But yeah, overall I think that the code has been great because of one feature that cloud doesn't have yet and it is the lc. It basically gives extra, extra context to the AI whenever it's implementing a feature. Basically gets diagnostics as soon as it writes a file. So if you have an error, it'll immediately try to fix it instead of just building. Instead of just waiting to build something. Right. With the build command, yeah, you get those diagnostics right away, but you
+
+Speaker: Pedro Guimaraes
+[14:44] also can get those in cloud code. Code also supports a lot of space. I don't know if it's something that's disabled on your settings, but you use that kind of speed in color code.
+
+Speaker: Kevin Del Castillo
+[14:59] I bet you can. But I think it was out of. I think it comes. Configure an open code by default. So I found that interesting.
+
+Speaker: Donovan Hiland
+[15:10] Yeah, I think so too. It seemed like more of a first class citizen. It was less hidden in open code I guess. But I think you could. We should figure that out. Maybe we can post something about that. Kevin and Pedro setting up. Setting up lsps and cloud code. That'd be useful.
+
+Speaker: Pedro Guimaraes
+[15:26] Okay, we can't like do a quick guide, like a quick step by step.
+
+Speaker: Pedro Guimaraes
+[15:33] Yeah, I've seen recently a lot of hate against MCP protocol using protocols simpler and more straightforward. I agree partially if you are a developer. Yes. And often like it will be much faster and deterministic afterwards if you ask Paul to write a script to call the API instead of like calling the MCP every time you want to do something. But there is no actual way of like mcps are better for distribution. Like for example, in our organization we can just go to the cloud AI organization settings and add a new connector or add an MCP and it's going to be pushed for everyone. And. That's the gist of it. I think distribution is easier for MCP because usually not usually the user doesn't need to install anything. Like you can just like add the connector and it's going to be there, it's going to be available. So if you want like standardize things, I'll go with the imcp. And if you're using, you're doing something for you or you want to try to like scrape something called API, you can go with the script. You don't need like a MCP for that. Or CLI if there's a CLI for whatever you use. We built several skills that have. Okay, team with different tests. When would it make sense to combine the N12 plugin? Well, only if you want to just. Oh, sorry, you. Is Kevin still. Kevin, are you still with your radio? No, I just raised it.
+
+Speaker: Kevin Del Castillo
+[17:54] Yeah. Sorry to interrupt before you answered that question. Quick intermission. I think that the questions in the chat are really interesting and all the resources that are posted on the chat, but I think that will get lost. When we end the meeting. Yeah, so I created a Slack channel. I just posted a message on here random. So I'll be cross posting these questions to that channel but ideally I think we can talk there because last time I was trying to search something from last weekend. Yeah, it was lost on this meeting.
+
+Speaker: Pedro Guimaraes
+[18:25] Yeah, right here. Sorry, I got distracted reading the channel. Okay. We built several skills that help our care team different with different tests will make sense if you want to distribute it. Like be easier for other people to install and use and also if you want to virtual them and then later be sure that everybody that's using that skill is using the same virtual is using latest version. So only if you want to distribute them. Okay, Kevin, again we can talk about color code go out. What are we on doing to prevent this? Well, I think that's similar to the other question. It is a bit, bit worrisome. But I love him. Like I don't know what's gonna happen. But if we do end up in a situation where we need to get out of cloud, there are other options. Like there are Codex Gemini, the Chinese models we were talking about. Like there are also in the US open code with other providers. So there are alternatives and luckily I don't think we're using any.
+
+Speaker: Donovan Hiland
+[20:15] Well, except for maybe plugins, most things that we use are more or less compatible with the other options. Right.
+
+Speaker: Pedro Guimaraes
+[20:25] Every. Everything is standardized now like Codex Cursor, they have hooks, they have Codex has plugins through.
+
+Speaker: Donovan Hiland
+[20:36] So Codex even has a way to import your Claude stuff. So there you go.
+
+Speaker: Pedro Guimaraes
+[20:42] Yeah, also that and, and even if it didn't have, you could just open whatever you're using and ask it to import yourself. I know Codex does that quite well. Like you can ask, hey, can you import my, I don't know my open code setup to Codex or can you export my Codex setup to open code? It's pretty, it usually does a good job with that. I know I can be doing something better with the cloud but I don't know how or it's possible. What stages do you guys usually figure out what you don't know? If I, if it's something that I don't know I should ask how to research about it beforehand. I always like to research because I want to avoid cloud answering based only on the training data cut off date. So I want to ensure that with the research that whatever you're saying is updated and if I'm in the middle of a task and cloud offers me something, two or three options and I don't quite understand what they mean or the pros and cons or what choosing one over the other would entail. I asked you to explain more detail or something like hey, I like option A and option B but I don't know what would be like the difference in practice the what will be the trade offs and I, I basically I just keep chatting with Claude and feel like yeah, I, I don't know. I didn't know these two options quite well but I feel more confident, feel more confident choosing, choosing one over the other. And that's it. Like you can, you can ask, you can just ask it. Just ask all. Like there are some times where I, I'm really, really. There are some sexual that of mine that you, you if you see it you think like I was like illiteracy or the latest person in the world because sometimes we're discussing something over like I don't know discussing something regardless and I literally copy and paste this life message like when we want to do something it's like I copy and paste like hey what I was discussing this with my colleague. How can we do this? What were the options here? And just like kick off a research section so it's really easy to just ask it. Okay, this question goals there even organization can enjoy for testing or studying or is it available only for a specific verdict. I don't know what this means. We.
+
+Speaker: Donovan Hiland
+[24:16] So we do have a Raven organization and it kind of depends on what project you're on. If your client is providing you with a tool, then that's the tool that we are having you use. However, there's a, maybe a caveat here. If you're working towards completing anthropic courses or trying to get the cloud architect certification that, that we, I, I think is going to open to us soon, potentially, then I think you need to be completing the courses with your Raven account. So you can reach out. I would say yes, we do have a cloud organization. It depends on your specific case. So if you have questions, you can reach out, reach out to me and let's, let's figure it out. Or you can reach out to your engineering manager or PM whoever asked this question.
+
+Speaker: Pedro Guimaraes
+[25:17] If we didn't answer your question, please reach out. Like we do have an organization. I have a prompt that I like to use on a regular basis. I have it saved somewhere and I can copy and copy and paste in the color and there by the way, if it's a very simple prompt, you can like put it through, put it into a command or a skill, a slash command or a slash skill. And every time you need that prompt, you can invoke the command or invoke the skill. So like copy and paste commands and skills are pretty much interchangeable. If in the courses they mention commands, I don't know the status of comments, I think they are deprecated. So just use a skill. It doesn't need to be nothing too elaborate like just put your prompt in a markdown file called skill, give it a name and then you have like a reusable command.
+
+Speaker: Donovan Hiland
+[26:38] Or even better, maybe you could just paste it into Claude and say can you make this a skill for me?
+
+Speaker: Pedro Guimaraes
+[26:44] Oh yeah, true. You can be lazy. Please be. Be as lazy as possible.
+
+Speaker: Donovan Hiland
+[26:49] Yeah, be as lazy as possible.
+
+Speaker: Pedro Guimaraes
+[26:51] I already feel productive with Codex GPT 5.5, but looks like more popular. You think that I should consider moving to cloud code? I think you should. I think you should consider just export. Experimenting with like finding what you like and what you don't. The Codex models are very very good. I. I think like it's as of right now feel like the only real alternative on the same like quality level would be Codex. So you. You are like you're using something that's quite good already which is like just checking out what's out there. Does anyone have advice on guidelines for make sense as a skill versus rule by setting? Call them D. Call them D. I would. I would add general directives or general things about your project. Things that always apply rules. I would add things they only apply on certain files or UI rules I don't know will be on your scope to your UI components or design system rules. It's just is scoping through the design system tokens or something like that. So rules scope it call them the general things about the project. Any skills like a reusable workflow like you don't use it all the time. You don't need that in the context all the time but it's something that you do quite often so you can have it as a reusable workflow. I think we're done. Let's see what was in there's anything. I'm gonna go back I got a.
+
+Speaker: Donovan Hiland
+[29:10] We got a fresh question in bottom.
+
+Speaker: Pedro Guimaraes
+[29:15] Oh, one o'. Clock. How should we be think about from the feature? You mean like planning and brainstorming? I think that's what you mean, right? You can use. You can use like user feedback or feature requests or bug reports or whatever starting point for. Well first of all you should should talk to whoever is asking that to try to understand what they are trying to solve. And once you understand that I would start like a brainstorming or research session with Claudia too. Like I have this problem I have. I want. I want to solve and I want to solve it because I don't know I want to accomplish this or that. And what are the options? And depending on what, whether you're working, if you have more freedom to choose how it's going to be, use your, use your good judgment. And if you can decide for yourself, just take the options and present to whoever you need to present. Say, hey, so about this problem. There's the option A with pause and cones, abc. Actually, the option one calls and calls NBC and option two calls and calls abc. And if you have an opinion on any of them, I would say like, I would go with two because of this and that. And so still talk to your team, still talk to whoever is asking the feature request, the bug request. So always try to understand where they come from. Use cloud to research the options. Use Claude to help you, like take an educated decision and double check with your team if you need to. I think this, I think we are done quite on time, like perfectly calculated.
+
+Speaker: Donovan Hiland
+[31:45] Yep, very good. Okay, two things. One, that AI Office hours channel. It's a good idea. Kevin's been posting the questions in the chat, but I think maybe I'll go through and we'll just take the transcripts and post just like question answers in case you want to review what we talked about. Second, well, maybe there's three things. Second, I, I would like to see. I know you guys have questions. I know you guys are, are thinking through things and trying to figure things out. And none of you, or very little of you are asking. And we want to help. We want to get everyone, we want to bring everyone up together. So it could be a question you personally have. It could be things that you see, like problems you see other people having that you can propose as a question. We'll be thinking about ways that we can help each other, that we can help you and, and be thinking about the questions that you have. Additions to your workflow, changes to your workflow. Even if you don't know what the answer is or really how to formulate the question, I would say try and we can figure it out together. And then lastly is, I'm going to post, I'm going to send you a link for you guys to. To share feedback. Feedback on this meeting, on the AI channels, on anything related to AI there. So that will be anonymous. And then we'll try and. Just trying to gather and see what's landing, what's not landing, what could we do better? So, yeah, I. I'll share that in. In one of the channels, too.
+
+Speaker: Pedro Guimaraes
+[33:38] And the only question we will refuse to answer is if you ask, how can you make Claude do your taxes? We're not going to. You're not going to answer. Everything else is up. Everything else is better is a better question.
+
+Speaker: Donovan Hiland
+[33:56] There you go. There's the ground rules. Anything but that. Okay. All right. Thanks, everybody. Have a good weekend. See you guys, everyone.

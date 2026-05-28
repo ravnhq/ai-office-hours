@@ -1,0 +1,131 @@
+Speaker: Afonso Ferrer
+[03:00] It. Hey, everyone.
+
+Speaker: Richie-RAVN
+[03:53] Morning.
+
+Speaker: Donovan Hiland
+[04:01] Going on, guys.
+
+Speaker: Afonso Ferrer
+[04:04] Hey, Donovan. Everyone is always so quiet here. How do you guys stay with the silence? Like, usually when silence, I can only hear my thoughts. That's why I prefer talking with everyone.
+
+Speaker: Pedro Guimaraes
+[04:40] You're just gonna pretend there's no bike here. Keep using your computer as normalize. There's nobody here. Let's wait like one more minute, Okay? Sorry, guys. I'm a little bit sick. Before we we start, there are two things I want to talk about. The first thing is that we're going to start delivering distributing the Revencito stickers for the people that completed all the four courses before April 30th. There are about 50 people gonna get that. All the stickers. The stickers are already in El Salvador and are so for those that live there, should be easy to get them. Like. How do you say share the list of those who are gonna get a sticker later today. And the second thing I think thanks for everyone that took the time to reply to the form about the office hours. There are some interesting suggestions there. Some. I still don't know what to do but there are some interest suggestions that I noticed. A lot of people said that they, they got useful things out of it which is great. If you, if you could share in the chat or share out loud like here right now, like if you can remember anything that the office hours help you out with will be really great to hear. And another thing that I want to do, I just don't know how because it feels kind of awkward. Some kind of like a practical session or something. But I didn't think about it like for the past few weeks and it's always awkward because I gotta like kick off a plan or something with Claude and then we're gonna sit here waiting for like 10 minutes and I just haven't come up with an exercise or something that I feel like can be show in 30 minutes. If you, if any of you have any suggestion or any idea, please let me know. And that's it. I'm gonna share the form again in case you didn't reply it and you want like to add your feedback there. It'll be really helpful. False. You're muted every time.
+
+Speaker: Afonso Ferrer
+[08:20] I know you said to share on the chat, but I do have one thing that I've been thinking about a lot lately, which is I think you mentioned some time about making tests with AI and something about using TDD with AI. I know how to do test driven development but on the manual side. And I noticed that when I'm writing code with AI I actually always write the code less and I'm having a hard time to actually practice TDD with Claude. I think. At least for me that would be a nice suggestion because it's one of the things that I've been struggling to learn on my own.
+
+Speaker: Pedro Guimaraes
+[09:09] You mean like a, a practice session? Yes. Let's see. I, I, we could work on something like later today, later next week. And that's, that's what I had to say. I'm gonna actually don't share in the chat what you learn sharing the AI office hours channel and slack and because then we can look at a little later, get the highlights. Also another thing we've been working, been doing like a pilot group for getting the cloud architect architect certificate. We have like we have four people with certificates already. Marcelo Melgar, Carlos Peris, Jose Gomez and I'm sorry, I forgot who's the fourth person?
+
+Speaker: Donovan Hiland
+[10:23] Mario.
+
+Speaker: Pedro Guimaraes
+[10:24] Mario. If you do, if you want to take them, take the card, the certificate, feel free actually reach out because they, they ask you to, to complete four courses before you take this certificate. And once you do you can sign up with your even email Reach out are going to get you in the pilot group. If you want to do the Certificate already the four courses you need to do is AI Fluence, Cloud 101 Cloud Coding Action and Intro through MCPS. Because some people have a reach out in the past they wanted to take the certificate. So reach out again. I'm going to put you in the pilot group and you can take the certificate. I think that's it.
+
+Speaker: Afonso Ferrer
+[11:37] So about the certificate, I know there's a cost associated with it so it's raven gonna reimburse people that want to take the certificate. How is, how is this going to work?
+
+Speaker: Donovan Hiland
+[11:53] Yeah, so we initially were, were pushing this to a pilot group. I don't know if you saw Brandon's message in winning the other day. It was yesterday. It's not limited to that group anymore. Anybody and everybody who's willing and able, excited to take it, can and should and we will reimburse you for the cost. So no excuses there. Goal, goal for the end of the year. Right. Is that everyone gets it, so might as well get over. Get it over with. Right? Yeah.
+
+Speaker: Carlos E. Pérez
+[12:35] Carlos, I do have another part to that question though. Who do you. Who do we write for the reinforcement? Because I have no idea.
+
+Speaker: Donovan Hiland
+[12:51] There's a way to do it in Clockify message.
+
+Speaker: Carlos E. Pérez
+[12:53] Ah, in Clockify.
+
+Speaker: Donovan Hiland
+[12:55] Yeah, there's a reimbursement spot.
+
+Speaker: Donovan Hiland
+[12:59] Okay, do it there.
+
+Speaker: Carlos E. Pérez
+[13:00] Thank you.
+
+Speaker: Donovan Hiland
+[13:05] I. I don't think it's as complicated as the Solutions Architect AWS certification. I don't know. Has anybody taken both? I'm not really sure. But from what I've heard, The Solutions Architect 1 takes weeks to study for. Unless you're, you know, unless you're like Dave or somebody. But otherwise I think the clots Architect is like, what would you guys say? Maybe a few days or a week. Studying in the cracks is enough. Yeah.
+
+Speaker: Pedro Guimaraes
+[13:47] For those who have taken. What did you think about it? Like, what was like, easy? What was difficult?
+
+Speaker: Carlos E. Pérez
+[14:00] I mean, I think the number of subjects to study was specifically like, working with the Cloud API was, I don't want to say massive. I'm being very careful with saying that. It's just a lot. So you definitely won't be able to study it in a knife if that's what you're thinking. But if you like, the secret here is to get the fundamentals because you'll have many questions where many answers will seem correct. But if your fundamentals are strong, then you're going to say, okay, option A makes no sense. Because I know this Option B kinda makes sense. Let's click that one. Then C and D are ridiculous. So let's take option B for example. And that's because of getting strong fundamentals. How do you get those fundamentals? I honestly just use cloud. I told Claude, explain to me like as if I was a kid, what's from chaining, what's dynamic decomposition. And cloud gave me analogies. And honestly, if I were to explain those topics, I always explain them with analogies. Because that's the way I learned the best, honestly. So just use cloth so you can pass the cloud exam, if that makes sense. That's the best tip I can give.
+
+Speaker: Pedro Guimaraes
+[15:21] Fernando has a question that's interesting. I think it's. I'm not entirely sure. Maybe they have something for the future, but it does, like. It does feel like a foundational. Foundational certificate.
+
+Speaker: Afonso Ferrer
+[15:47] There's also one thing. I noticed that from the cloud courses, they kind of change names sometimes, the way they. They refer themselves. So maybe that's it. Like, because they are changing so much stuff all of the time, maybe they just got lost a little bit. I think it's the cloud code for API. It has, like two or three different names.
+
+Speaker: Afonso Ferrer
+[16:11] The certificate says one name, and the course is another.
+
+Speaker: Pedro Guimaraes
+[16:15] Also, considering the certificate lasts for six months. Right, Carlos?
+
+Speaker: Jose Gomes - Ravn
+[16:23] Yeah.
+
+Speaker: Pedro Guimaraes
+[16:24] I feel like it's likely that in six months they're gonna have another certificate or something that you're gonna have. We're gonna have to do with, I don't know, Opus 6 or something. Okay, so let's do go real quick. We have some questions in sl. Wait, no, I. Open the room. Oh, by the way, take some time to study, because they have, like, a ominous warning that if you. If you fail the exam, you can only do it again in six months. But they also have, like, a practice exam that you can do, and if you. If you do well on the practice exam, you're probably gonna pass, like, the normal examination. Okay, so I have a thing. A question from Hunt is true.
+
+Speaker: Carlos E. Pérez
+[17:49] That was me. Sorry. By the way, that was my question. I swear, I have no idea how to put my name. Last time it was anonymous. Today it was Hunter two. I don't know.
+
+Speaker: Pedro Guimaraes
+[18:03] Should have a good answer for this. Like, Because I literally just did that. Thoughts on using HML set on Markdown? Not specific to cloud code, but one thing that is cool is that you can generate the HTML inside code and share the artifact. Like this one for example is for the half and C2 stickers. I thought, I thought like HTML is a lot easier to share than Markdown and it did this really quickly. I just asked you like, scan this spreadsheet for supermissions before the end of April and make me a list of. Make me a table of those who earned the stickers and like it's a lot easier than Sharon McDowell. Find Sharon McDowell a bit awkward to have. Like to either open versus code Z or something else or you gotta read it like raw. And I like for sure things. It does, it does use more tokens, but it's more presentable and it's easiest to share. So I would say there is a trade off, but I think it's worth it.
+
+Speaker: Donovan Hiland
+[19:35] Yeah, really quick, Pedro. Kevin? Kevin Del Castillo? Are you here somewhere? I thought I saw your name. You were just telling us the other day about something that you've been doing with HTML. Are you sure you should tell us about it?
+
+Speaker: Kevin Del Castillo
+[19:52] Sure, yeah, I can share a little bit about that. So what I was saying is that I have a few skills on cloud that build or output HTML code to help me with interviews, which I found really useful because often, more often than not on interviews I'm taking notes, maybe filling out some scores and having like a list of questions, right. I want to ask maybe people too. So what this HTML output does is basically combines all of that into like questions, then a note box below that question, maybe some score stuff there. And by the end of the whole page at the bottom, I have an export button that just exports that as markdown, which then I can use along with the transcript, right. With another skill to just like get key takeaways. But the main benefit of having an actual HTML file here is that it is interactive, right? It's like I have my own mini application that Cloud just built from a session. I mean, I didn't have to really spin up like a node project or anything like that. It was pretty simple.
+
+Speaker: Donovan Hiland
+[21:08] Yeah, the nice thing about HTML is it's interactive or can be and markdown's not. So yeah, there's some cool use cases and it's called.
+
+Speaker: Pedro Guimaraes
+[21:21] It's pretty good at writing HTML. Like where is like I don't know, let's see. Like it's pretty cool. Like I didn't ask for a search or a filter, but we did that and did it so fast. Like it looks okay for me and it's very much presentable, it's shareable and I think I'm gonna use it for assessments and interviews. Like having said, let's go. How about having simple tasks over the. Where you create the problems how keep enhancing the results? Maybe. But one thing that I feel like is that we are so like I don't know when that happened but it feels like we're so close to mostly vibrating 90% of the thing and it like. And it builds it in an okayish way that if it, if it is a simple task I think it's just gonna one shot it with a very close like ter problems like do this for me and then it's going to one charge. I don't know. Like if it's too simple I think it's just going to do it without further like needing further improvements of feedback. But maybe you can think about something. Another question for Hua. You created a review super agent in AI to create. Why should we use instead of the built in review skill? I didn't know that there was a built in review skill actually. Is it built in or is it. Are we certain it's built in or is something you installed? But in any case I don't know if the reviews cube does that. I'm assuming it does. I like that the sub agent has a separate context window and I like that with the custom sub agent you can define what you want to want to look at. Like, look for like correctness, simplicity, don't repeat yourself. Are there any tests? Are there security concerns? I'm assuming if the review built in skill probably already does those things. So I don't know how to answer if you should use that or not.
+
+Speaker: Juan Escobar
+[24:24] It's built in like for you.
+
+Speaker: Pedro Guimaraes
+[24:30] You can keep using Go. Sorry, that was catalog.
+
+Speaker: Juan Escobar
+[24:36] No, yeah, yeah. Since you started asking if it was actually built in. Yes. I didn't install anything. It's a cloud code feature. And also I been trying for over a week now and a lot of times I first I run the sub agent, the at reviewer MD then I run the review skill and I ask Claude, okay, now check out both findings to see what you got. And most of the time Claude shows me that it was actually a lot of false positives in the reviewer. I don't know why, but yeah, I read it and it's like, yeah, why do you want to change this? It makes no sense. And yeah, this week specifically I stopped using the reviewer since I have found better results using Delta review. So that was my question. I see.
+
+Speaker: Pedro Guimaraes
+[25:34] I'm trying to find, I can't find it but I was trying like to make it better by. There's, there's one book that's pretty good is the magic program. I was trying like to extract the book and bundle within the skew and see what it does. I haven't done that yet. But also I like to make the review my B and if it's giving you false positives that's kind of concern me. So did you notice like a lot less false positives with the reviewer skill than the sub agent?
+
+Speaker: Juan Escobar
+[26:29] Yeah, the review skill is showing me less than the sub agent. But I always keep digging and digging and digging. I don't keep the first suggestions even if they look like safe and sound like oh, this will be good, it will be more scalable, whatever. I keep running and me and my colleagues like extra reviews. We keep an eye on the results. Does it make sense this change? Okay. And yeah, after a lot of that then we end up with some functional code. But we cannot take for. Face value. Just the first version of the code after the. The first pass of the review skill or reviewers of agent whatever. Of both.
+
+Speaker: Pedro Guimaraes
+[27:17] I see. And there's. There's a thing that I. It's easy to get on a loop with these things. Like you ask for automated review, you address it and then you ask for another review and it feels like it always tries to find something. Yeah even like smallest thing. So there's gonna be like a. There's gonna be like a way, another way like a human element. Hey, stop doing this. I'll find the code the way it is. Who has a question that we already answered but I think we're gonna answer again? Yes, you can do it. Everyone can do the certificate, the architect certificate and another question from home. How curious about how non tech users are waving use AI to enhance the workforce. Some request called cowork workflows. Nothing too crazy but for the CSM side I've been working with Garland. She's been using cloud mostly for how to say like analyze your customer, analyze your client and prepare for like meetings with the clients, what to bring up, what not to bring up. She's using life for keeping track of the her relationship with the clients and Raven's relationship with the clients. So. Nothing too crazy but it is pretty useful. One thing she, she's doing as well is like if the devs like in the internal channel, if the devs keep mentioned a specific thing or a specific problem, she uses code like to get an idea of how to bring that problem when talking to the customer either to solving internally, adding one more Raven colleague and so on which I think is also a good idea. So props to count for that. There's one last question I like to hear your thoughts on GPT 5.5 versus Opus 4.7. This is entirely Vibes based. I think they are both awesome and they are both pretty great. If you do have. If you do have like a chat. A chat GPT subscription, like a personal subscription, I do recommend installing Codex and installing this plugin because when you're doing something you can include like ask Codex for review or ask Codex for a second opinion and it does find a lot of useful things. So if you do have like a personal chat GPT subscription, I highly recommend using Codex for reviews. And. And I think they're both very good in the topic for next week, which would be willing to pay. Can we do complicated? Maybe we can do that. Like something that. So if there's half an hour, maybe something that would be built like in 20 villas. So there's some leeway for some pro things going wrong or some leeway to talking about it.
+
+Speaker: Donovan Hiland
+[31:37] Yeah. One thing I've noticed. Have you guys noticed this? Like, you know how YouTube videos have always, you know, the algorithm says, like, you got to keep it under a certain amount of time or else people will stop watching. And YouTubers are always like, pretty good at following that. And a lot of the AI YouTubers are like, I can't. I can't demo a feature. Like building a feature in five minutes. It just doesn't work. And now their videos are starting to get longer and longer and they're showing the full workflow. Maybe we need to do something like that too.
+
+Speaker: Pedro Guimaraes
+[32:09] I don't know. Like, I don't know when that changes. Cloud used to be faster. There are times you ask something, we're playing something, and then it goes like thinking, and then you wait like five minutes is still doing something. So I feel like it could, we can try, but it could get awkward. Like, okay, let's just wait for Claude to do it. 3. But like, we can try. I think that's it. My voice is dying.
+
+Speaker: Donovan Hiland
+[32:47] Yeah, it's okay. We're at the end of time. Just a couple things. Just looking at this form. I mean, just a reminder, guys, this, this meeting is for you guys, for us as a company to get better at, you know, all the AI development that we're leaning into and pushing. I know you guys have questions. I know that. And based on the form feedback, I think, you know, I can see a couple of things that are preventing some people. And I know you guys have probably heard this before, and I don't know if it helps, but I'll say it again. If you have a question, I can almost guarantee someone else has that same question, so. Meaning it's not stupid. Even if you feel like the topic is basic and so you don't want to ask questions about it, or maybe it's over your head. In either case, asking questions are a great way to help you. And honestly, someone else who almost guaranteed has the same question. You know, some of you mentioned that you'd like to see some more prepared presentations on specific topics. I think that sounds cool. We might do some of that stuff. However, there's, you know, 200 people, 250 people at Raven, 100 plus people generally show up here. It's pretty hard for us to know exactly what you guys want to see unless you guys talk to us about what you want to see. So talk to your engineering manager, talk to Pedro, talk to me, talk to anybody, I don't care. So that we can start figuring out, you know, what questions can we go over in these sessions. If you'd like a presentation prepared on what. What would you like to see? Some of the live demos, it sounds like, are pretty interesting. We can kind of figure that out. But long story short is the more that you guys actually interact and engage here, I think the more effective they'll be. And I think they're good, but they could be better if everyone, you know, if it wasn't just Pedro talking the whole time. So think about that. Sleep on it a little bit, Build up some courage maybe, and we can have a. Start working towards a more engaged meeting next time and, and, and reach out to, you know, your PMs, your, your engineering managers, if you have them already. And if you don't feel comfortable, they can help. They can help kind of raise those, those questions and topics for this meeting. But, yeah, that's it. Thanks, guys. Yeah, Marcelo, feel free. Ask questions. We've got a couple of channels. I think the AI office hours 1 is fine. Pick a channel, whichever one you feel comfortable asking a question in, and, and let's do that.
+
+Speaker: Marcelo Melgar
+[35:43] Okay.
+
+Speaker: Donovan Hiland
+[35:44] All right. Thanks, guys. Happy Friday. Bye, everyone.
+
+Speaker: Jose Gomes - Ravn
+[35:51] Have a nice weekend. Here, go.

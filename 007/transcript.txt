@@ -1,0 +1,164 @@
+Speaker: Pedro Guimaraes
+[03:32] Morning.
+
+Speaker: Adry Palacios
+[04:32] Hello. Good morning. Good morning.
+
+Speaker: Donovan Hiland
+[04:40] Hey, what's up? Everybody? Good morning. Money.
+
+Speaker: Pedro Guimaraes
+[05:07] The room looks so empty. Is it because of the holiday?
+
+Speaker: Donovan Hiland
+[05:16] I don't know. Good question. Slowly, everyone's joining.
+
+Speaker: fernandobarrueto
+[05:26] Good morning, Alejandro.
+
+Speaker: Pedro Guimaraes
+[06:10] Let's wait, like, one more minute and then start.
+
+Speaker: Matheus Teixeira
+[06:16] Does every American that works for Raven lives in Utah, or do we have other Americans. Americans across the country?
+
+Speaker: Donovan Hiland
+[06:30] Yeah, up until like a month ago, we all are here in Utah. But I. Maybe around a month ago, I. Maybe a little longer. I can't remember. We've got a. We've got a new sales guy that lives outside of Utah. He's on the other. The other side of the country. I can't remember which state he's in, but, like, 95% of us are here. Yeah, interesting.
+
+Speaker: Matheus Teixeira
+[07:03] Are you native from Utah or. Usually people come from other parts of the country.
+
+Speaker: Donovan Hiland
+[07:14] I can't speak for other people. There's a lot of people that I've met here that have just lived here their whole lives and their families have lived here their whole lives. I've been here for like eight, ten years maybe, but I grew up in Arizona.
+
+Speaker: Matheus Teixeira
+[07:32] I'm almost a native.
+
+Speaker: Donovan Hiland
+[07:35] Yeah, yeah. It's close. It's close, but. And very similar where I grew up to Utah.
+
+Speaker: Pedro Guimaraes
+[07:46] I have the impression that, like, Texas is some kind of startup hotspot, because I see a lot, like, is it true? Like, because I see a lot of startups from Texas for every reason. Like Austin, for example. Yeah.
+
+Speaker: Donovan Hiland
+[08:06] I mean, Texas has a lot of people, so that helps. I feel like. I feel like startup hotspot for me is like, California. But I'm sure there's. I don't know what the ranking is. Texas has got a decent tech scene, but I think it was like, I can't remember which of the cities. Houston, maybe. I'm sure they all do. When there's a lot of people, there's usually some kind of a text scene.
+
+Speaker: Pedro Guimaraes
+[08:40] Maybe Dallas. Is Dallas in Texas. I also see a lot of, like, companies from Dallas.
+
+Speaker: Donovan Hiland
+[08:46] Yeah.
+
+Speaker: Pedro Guimaraes
+[08:46] Like, hiring in Latin America, but mostly Austin. But let's start. We have only two questions. Could you. Could you guys give us. At least, like, come on, three questions instead of two. Maybe four if you're lucky. So let's see. The first question is from Ha. Is about Codex. Like he, he says, like he, I. He says he has like zero experience with open AI models and he's afraid that they aren't as good for coding as Claude. I do think they are very good actually. And I feel like they do a few things better than Claude Image reading. I do feel like they get images a lot better than Cloud. Not sure about Opus 4.7 because entropic claims like Opus 4.7 is better at image reading. And also I do. I did have some like debugging sessions where I would try to fix something with Cloud one, two, maybe three times. And then, and, and then later I will try in Codex and Codex would fix it like a lot faster. Things that Claude wouldn't be able to fix for whatever reason. I reckon there's a bias there because I was trying to fix a problem with Codex that I already tried a couple times with Claude, so I would have more understanding of the problem. But usually when I run out of options, I try Codex and Codex does a pretty good job. And as I said, like, if you need to like Codex to understand like a screenshot of a UI or something we're implementing, I find Codex better at that. Another thing, I feel like OpenAI models. It's not the models, but the subscription. Like the $20 subscription, is it still usable of the OpenAI subscription? And like the $20 subscription feels like more like a trial or tech demo than something you can actually use every day. Does that answer the question though? If you haven't tried the. The OV models, I would recommend trying. Let me see. Let's go to. I think it's better if I present my screen because people are posting questions now. I don't like how Zoom does things because it's so hard to find whatever I'm trying to present. But anyways, so the next question of our flories I don't know what courses you notice they added more in this new jar courses and I don't want which ones you have done. But if I were to choose, if I were to recommend as a foundational course I really like the AI fluence one. I really like the agent skills too and almost every other course related to cloud code or mcps you can replace them with the call the API course because the call API course is the more in depth one. It goes over MCP the API. Of course it goes over how the LLMs work. What else does it cover? Well, it covers pretty much everything for MCP rags, but it doesn't cover things like sub agents or skills. So I'll do the ifluence sub agents skills and the cloud API course if you if you want to see something different. The Cloud Cowork 1 call co work is pretty much called the code with a UI around it, but it's still interesting to do to take a few things are easier to do in code work than cloud code. For example, scheduling a task like cowork has a pretty good UI for scheduling a task and also you can evenly ask Paul to create a schedule task for you with whatever you want to do. So I do use cloud cohort for a few things. Let me see the next question. Every though once Koba Even though we are in the same project with the same skills and sub agents, why is almost always finding the different issues? I don't know exactly what you mean, but it's usually better. I think it's just because you're running on a different session on a separate session. So even though it's the same model, it's Claude it's kind of like looking at with a different pair of eyes. Because it's a fresh session, fresh context window. So I assume, I'm going to assume that's what's happening based on what you ask. It works the same when you ask like a different model, like through the S Codex or Gemini for a review. It's a fresh pair of eyes on the, or whatever you're doing. The AI cost might increase a lot in the future. How does Wave and plan to handle that? I think Donovan will be more qualified to answer this question than me. I do feel like, at least for this year, things are going to be the same, but other than that, like, I don't know what's going to happen. I know, for example, the Chinese models, the Chinese companies, especially Deep Seq, they are, they are finding ways of the LLMs like being cheaper and more efficient. So who knows what's going to happen. Like in one year they might get cheaper, but I think those will be more qualified to answer on the operational part.
+
+Speaker: Donovan Hiland
+[16:26] Then, then, then we, yeah, I mean it's, we're kind of in the spot where it feels like we kind of have to do it. Right. Probably everyone feels like that. So hopefully it doesn't go up 10x or something. That might be, but if it does, I don't think that's just going to be hard for us to, to handle. It's going to be hard for everyone. So that's not just a Raven problem. Let's say it goes up a little bit. Well, actually even just the cost of it right now is something that we have to plan for and come up with solutions for. Right. It's, it's, you know, twelve hundred dollars a person per year and we have 230 people at Raven. And so if you do the math, that adds up to quite a bit. Probably one of our biggest costs right now. And the plan is though, just like we work with clients to have them, you know, clients pay for their infrastructure, clients Pay for their GitHub, clients pay for Jira or Linear, clients pay for XYZ, all the things that we use for clients. Typically we try to have our clients cover those. So the idea is to work similar to all those other things is just working the AI cost into the, the contract for doing business with Raven. So it might include, I don't know if that means, you know, I think Brandon is kind of trying to figure this out and Rick and the partners, but. That could go a bunch of different ways. It could mean maybe. Yeah, it could mean increasing rates. It could mean including that as a line item or something. I'm not really sure. But ideally shouldn't affect us as much as you might think if clients are covering it, which I do think makes sense for them to do. But it's kind of a long process. You have to have conversations and a lot of things that we have to think about changing and. But that's, that's the high level answer I think to your question, which is how do we plan to handle it?
+
+Speaker: Donovan Hiland
+[18:40] Ideally we pass the cost on to clients.
+
+Speaker: Pedro Guimaraes
+[18:47] And also like. The, the another reason like I feel like at least for this year the cost is going to remain pretty much the same is that like there is still invest investors investor money in. In going in like the other day like Google invested like 40 billion in anthropic. I think Amazon also invested 10 or 20 billion in dropping recently. So I know that that's kind of strange. Strange answer. But there's still like venture capitalist money to burn and, and if, if prices went 10x like next month it will be catastrophically bad for everyone. So I don't think realistically they could do that.
+
+Speaker: Donovan Hiland
+[19:45] Yeah, yeah, I agree.
+
+Speaker: Pedro Guimaraes
+[19:49] Next question from Matteo's. I don't know this website. Let me see. Or maybe the only website. Oh, I do know this website. I remember seeing this, the manual. I don't know what, what is it? Why do you like it like better than for example Skills Sh, which I assume is the most common. So I revert the question for you Matthias. Did you ever use like Skills Sh or any other website and you like Skills MP for better?
+
+Speaker: Matheus Teixeira
+[20:33] Well to be honest I didn't know about Skills Sh so that was my question because I know SkillsMP and there is another website that I use which is Agents. Something else I need to double check but I was wondering if you guys use another website to find skills. But I like this one. I will give it a try. So what was the URL? If you get Skills. Improve. Ah, all right, I'm going try this one as well. Thank you, Pedro.
+
+Speaker: Pedro Guimaraes
+[21:13] And another thing you can do, you can go just go on GitHub and obviously check wherever you're importing. I don't know, there are like a bunch of agents here that they like. It's a little harder to find, but you do end up finding interesting, interesting stuff by just searching on GitHub. Another question. It's another question, Samuel. It's basically asking if skills sub agent hooks and MCPs can be used in cursor the same way you're doing column. Well, the only thing I'm not sure, I don't know if a cursor has hooks. But the skills sub agents and MCPs, you can treat them as standard. So you're gonna find them everywhere. Everywhere else. I'm not sure if cursor has hooks. I know Codex has hooked. I would say it's likely that they have like in the beginning, only cloud code had hooks. But they're called like Codex. Copy that. I think Gemini has hooks so let's check it out now. Oh, it does have, it does have hooks. So you can do the everything you're doing. Call to come. It seems like you can do in cursor as well. I think we can change models. No, wait. Have you used AI with git tools like user storage unit? Yes, but not that much. I, I, I very much a creature of habit. Like I try it conductor build for people that like work trees. Conductor is pretty good because the only way you can work with in conductor is by using work trees like they don't offer like checking out a branch. For me it's just work trees. I like three or how to say that team three code.
+
+Speaker: Pedro Guimaraes
+[23:42] And I also I am trying to use this one superset sh but as I said, I'm a creature of habit. I always come back to just opening cold code in the terminal. I don't know why it feels better, it feels easier. But if you're using. Other things other than cloud like Codex, Gemini, I would recommend using one of those three. I know, I know. Conductorated. I recommend Conductor or T3 issue if you want to try something different. T3 supports codecs and code and Conductor supports Codex called Gemini and others. I don't. Oh, here Codex and call as well. Let me see. I think I can change model in the middle of a session without sending the whole conversation as context again and call. First. I will revert the question for you. Why are you changing the models in the middle of a session? Just like what. What your workflow looks like. Because the only. I think the only moments I would change models is if I. I'm using like the oppos plan model where you like opus for. For planning and so for execution. Because if I am in the middle of a session and I wanna use a different model, I'm most likely like spawning a sub agent. Like if it's something easier, do it Haiku if it's something like a little bit harder with Sony. So you're not necessarily like switching modules in the middle of the Flash shop. You're just like spawning a sub agent. And that's true, it does invalidate your cache. So if you change models in the middle of the session, invalidates your cache and you have to send the whole conversation again by and you're gonna pay like the higher tax of fresh output tokens. They are the most expensive ones. So I don't recommend like changing models. A question from Yurio. Did we ever think about using a big open source model on a private server? No. And I don't know how would it scale with 200 people or let's put like 100 people using at the same time.
+
+Speaker: Donovan Hiland
+[26:55] Yeah, I did some rough math on this because I can't remember which model it was, but something came out recently. Was it a Kim? Was it a Kimmy model? I can't remember. Some model came out that was beating Opus and benchmarks. Like last, maybe last week. I don't know if that's ringing a bell for you guys. Which got me thinking like, oh, and it's an open source model. So I started thinking, oh, cool, maybe we can. Maybe we can actually just play around with using this to replace Claude. So I started doing math, doing, looking into the resources that it takes to kind of run the model. Because my first thought was, oh, maybe I can just get like a, like a beefy, you know, Mac studio or something like that and run it. Maybe that'll actually end up being cheaper. And the resources that you need to run those models so that they're not like painfully slow is pretty high, it seems like. Not to mention whether or not they're actually as good as the models we're getting from Claude. But my math could have been wrong. This was kind of some rough estimates, but it was like going to end up costing like $50,000 a month or something just to run that for the company. So I don't know. That could be way off. But I think the reason why it's not looking good right now is just the cost to run them. Seems pretty nice.
+
+Speaker: Pedro Guimaraes
+[28:29] I think the one of the better local models will be coin 3.6. But is it still quite beefy? Like, if I remember why, I've seen people read it running on like. In 3090s, how do you say, like 30 90, That has like 24 gigabytes of VRAM. You also need a lot of RAM because whatever you can load in the VRAM, you need like more extra RAM. So I guess you could run on your house. You should have like a beefier GPU before 200 people. I think it would be very hard to scale. See any other question? Yeah.
+
+Speaker: Donovan Hiland
+[29:25] So to answer your question, yes, I have thought about it and then immediately ran away because of how expensive it looked like it was going to be. As of right now, I think Claude's still cheaper than running a lot of stuff and better.
+
+Speaker: Pedro Guimaraes
+[29:40] We have question from Zach. Just so we don't like we finish it, like answering all the questions. What's the best practice for managing multiple AI agents? Would you recommend call managed agents or Composure? You mean? I'm not entirely sure what you mean. By AI agents. I don't know what's called managing agent.
+
+Speaker: Isaque Araujo
+[30:17] Yes. Like to. To manage multiple AI at the same time. Tackle some tasks. Maybe it would be sub agents.
+
+Speaker: Donovan Hiland
+[30:28] Oh, you said the tackle subtasks. Yes.
+
+Speaker: Isaque Araujo
+[30:32] Or just.
+
+Speaker: Donovan Hiland
+[30:34] Yeah, like just to parallelize work.
+
+Speaker: Isaque Araujo
+[30:37] Yes. Maybe more like this parallelizing work.
+
+Speaker: Pedro Guimaraes
+[30:47] Oh, this seems interesting. I know what I use it for, but. And I. I never heard about compose you until this week. I, I don't say this, but I wouldn't like logging with. In compose you with your cloud account. Because. Because I, I think you can log with like Codex and your cloud account. I wouldn't do that because you probably like FM and I. I didn't know about cold manage agents. I think the use case looks like it would be like. It felt like it's a serverless thing. Like if you wanted to apply like a serverless LLM for a specific thing. That's what I understood. Because you're going to deploy in some infrastructure and it's customized. So I don't know. I know what the use case for that would be.
+
+Speaker: Donovan Hiland
+[32:10] Well, I think we can. I mean the record. I think that the recommendation we currently have, which everyone's welcome to explore and find what works for them. We kind of talked about this a little bit last time, but I think where Pedro and I are at is kind of like. We don't like to parallelize a lot of work. Well, I wouldn't say so. The way that I would orchestrate that is, you know, you can. You can spin up some sub agents to divide the single thing that you're working on up and do it faster. But working on multiple things at the same time is. It seems like maybe that's what you're referring to. And that's hard for me to manage in my head. And I end up pausing and having to review all this stuff anyway at the end. So the time I feel like I saved, I maybe didn't. So I don't want to recommend that you don't do paralyzed. Parallelized work because I want you guys to experiment and build and try things out. For me, at least it feels less productive. I feel like I can still work really fast in a single line rather than trying to have multiple things going at the same time. It just, it costs a lot. As far as my mental bandwidth, trying to context switch all the time. Do you have, do you have some advice, Pedro?
+
+Speaker: Pedro Guimaraes
+[33:38] One second.
+
+Speaker: Pedro Guimaraes
+[33:43] Yes, I also do, like, I, I also do a lot of sequential work or if I, I am parallelizing, I'm doing like on different projects, not on the same project. Like, I like to optimize my, my work for like sequential work, but as fast as I can. So.
+
+Speaker: Donovan Hiland
+[34:09] Yeah, and Iago mentioned something which I think is true. And it, it depends on what it is, but if something's going for a long time, rather than just sitting there, I try to find something to do with my time. But that doesn't always mean like spinning up a massive secondary project. I have to babysit in the same, like in the same app or whatever. So, yeah, I find myself doing that. Trying to optimize the time while one thing is going. Doing something else. That's not going to take a bunch of mental bandwidth to context switch.
+
+Speaker: Pedro Guimaraes
+[34:53] No, I think time's up. Let's see if anyone submitted. No, we finish all questions. Awesome. Cool. Thank you all for the questions. I really enjoyed the session. We should do this more often, like this type of session.
+
+Speaker: Donovan Hiland
+[35:13] I feel like this a lot.
+
+Speaker: Pedro Guimaraes
+[35:16] I feel like we go over more things and we'll go over like some, some specific things that we might miss in a lecture session. So say so I really enjoy doing.
+
+Speaker: Donovan Hiland
+[35:32] Yeah, keep thinking about it, guys. If you guys, as you're. I mean, we have a company goal where we all should be at a certain level in our AI competency. So you should be experimenting and as you come up with questions or, you know, sometimes it can be something you've learned, maybe you want to pose as a question. But these sessions are really for knowledge sharing. So how can we help you guys and help each other overcome blockers, get over those things that we aren't really sure about as we're working towards, you know, getting better. So be thinking about those questions throughout the week. We'll post a link so you can, you know, the link will still be there. For questions next week and we'll go through them again then. I think that's it. Thanks, guys.
+
+Speaker: Isaque Araujo
+[36:27] Everyone, everyone.
+
+Speaker: Victor Quicano
+[36:28] See ya.
+
+Speaker: Piter Montes
+[36:32] Have a nice weekend. Bye. See, guys.
+
+Speaker: Ronald Rios
+[36:37] And picker. It.
+
+Speaker: Donovan Hiland
+[37:50] What's up?
+
+Speaker: Afonso Ferrer
+[37:53] Yeah, what's up, everyone? I think you forgot to leave. Or is it a bug? I think we can just kick everyone.
+
+Speaker: Donovan Hiland
+[38:09] Yeah, that's okay. I'll just end it. Oh, wait.
+
+Speaker: Afonso Ferrer
+[38:11] I was just curious. Yeah, that's definitely a bug. I wasn't on the meeting.
+
+Speaker: Donovan Hiland
+[38:15] Okay. Yeah, I was just wondering.
+
+Speaker: Afonso Ferrer
+[38:18] Okay.
+
+Speaker: Donovan Hiland
+[38:18] All right, Alfonso. Well, we can take it slack.
